@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron:900" rel="stylesheet');
+h1 {text-align:center;
+font-family:Arial;
+font-size:45px;}
+button{height:70px;
+  width:70px;
+background-color:gray;
+text-align:center;
+border:none;
+color:white;
+margin:5px;
+border-radius:10px;
+outline:none;
+border:1px solid black;}
+
+input { height:40px;
+width:330px;
+margin-bottom:15px;
+text-align:right;
+outline:none;
+font-family:Orbitron, sans-serif;
+font-size:20px;
+border-radius:0;
+border: .5px solid black;}
+
+  
+
+#test{background-color:;
+text-align:center;
+margin-top:25px;
+margin-bottom:30px;
+padding-top:15px;
+padding-bottom:15px;
+border-radius:12px;
+border:2px solid black}
+
+#copyright{text-align:center;}
